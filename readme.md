@@ -1,4 +1,4 @@
-## Toggle Button Using WiringPi (C++, CMake, Toolchain)
+## Toggle Button Using WiringPi (C, CMake, Toolchain)
 
 This project demonstrates how to use a toggle button with WiringPi in C++ on a Raspberry Pi. The toggle button will switch between two states (ON/OFF) when pressed. The following tools and technologies were used:
 - **WiringPi**: A GPIO library for the Raspberry Pi.
